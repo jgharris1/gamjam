@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 7396c3e2a9279e84c9f6139e28f860b9
+guid: 4a04f5a92556f5249bab421da163a000
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4553348263805706025
-    second: camp_1_0
+      213: 2283293657819587523
+    second: camp_13_0
+  - first:
+      213: 3043469545723207294
+    second: camp_13_1
+  - first:
+      213: -8635780841329514821
+    second: camp_13_2
+  - first:
+      213: 18436399583717686
+    second: camp_13_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: camp_1_0
+      name: camp_13_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 122
-        width: 138
-        height: 138
+        y: 0
+        width: 221
+        height: 210
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,8 +123,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d02835f0e14fc0c0800000000000000
-      internalID: -4553348263805706025
+      spriteID: 3c32d300c73efaf10800000000000000
+      internalID: 2283293657819587523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camp_13_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 139
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e1d854d639c3a20800000000000000
+      internalID: 3043469545723207294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camp_13_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 109
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb62e62441b872880800000000000000
+      internalID: -8635780841329514821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camp_13_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 69
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639ef18cecf714000800000000000000
+      internalID: 18436399583717686
       vertices: []
       indices: 
       edges: []
@@ -130,8 +202,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      camp_1_0: -4553348263805706025
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
