@@ -21,19 +21,19 @@ public class upgrade_loader : MonoBehaviour
         {"Personal\nTrainer",                 "0", "0.12 M", "$100.00 K"},
         {"Clean\nUp The\nStreets",            "0", "2.70 M", "$2.40 M"},
         {"Parks and\nRecreation\nFunding",    "0", "10.00 M", "$60.00 M"},
-        {"Hospital\nExpansion",               "0", "50.00 ", "$150.00"},
-        {"Billboards",                        "0", "50.00 ", "$150.00"},
-        {"Primetime\nCommercial",             "0", "50.00 ", "$150.00"},
-        {"Live\nInterview",                   "0", "50.00 ", "$150.00"},
-        {"Robotics\nResearch",                "0", "50.00 ", "$150.00"},
-        {"Party\nConventions",                "0", "50.00 ", "$150.00"},
-        {"Live\nDebate",                      "0", "50.00 ", "$150.00"},
-        {"Governmental\nRestructure",         "0", "50.00 ", "$150.00"},
-        {"Interstellar\nGladatorial\nCombat", "0", "50.00 ", "$150.00"},
-        {"Democracy\nProtection\nAgents",     "0", "50.00 ", "$150.00"},
-        {"Spice\nTrade\nDeal",                "0", "50.00 ", "$150.00"},
-        {"Infestation\nPrevention",           "0", "50.00 ", "$150.00"},
-        {"\"Peaceful\"\nInterventions",       "0", "50.00 ", "$150.00"}
+        {"Hospital\nExpansion",               "0", "0.19 B", "$0.17 B"},
+        {"Billboards",                        "0", "4.78 B", "$4.30 B"},
+        {"Primetime\nCommercial",             "0", "0.11 T", "$0.10 T"},
+        {"Live\nInterview",                   "0", "2.75 T", "$2.45 T"},
+        {"Robotics\nResearch",                "0", "60.00 T", "$54.00 T"},
+        {"Party\nConventions",                "0", "1.46 Qua", "1.31 Qua"},
+        {"Live\nDebate",                      "0", "47.50 Qua", "$42.40 Qua"},
+        {"Governmental\nRestructure",         "0", "0.12 Qui", "$0.11 Qui"},
+        {"Interstellar\nGladatorial\nCombat", "0", "3.07 Qui ", "$2.76 Qui"},
+        {"Democracy\nProtection\nAgents",     "0", "78.00 Qui", "$68.06 Qui"},
+        {"Spice\nTrade\nDeal",                "0", "2.07 Sec", "$1.86 Sec"},
+        {"Infestation\nPrevention",           "0", "54.00 Sec", "$47.09 Sec"},
+        {"\"Peaceful\"\nInterventions",       "0", "1.33 Sep", "$1.19 Sep"}
     };
     void Start()
     {
